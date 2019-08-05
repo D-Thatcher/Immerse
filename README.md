@@ -9,7 +9,7 @@ An e-commerce platform where users can view a three dimensional capture of the p
 
  - The ability to view and perform translations and rotations on a high-definition three-dimesional object of the product to be purchased
  - The user can overlay this object on top of their webcam input to see how the product would look on their person
- - A user-friendly checkout mthod
+ - A user-friendly checkout method
  
 
 ### Example
